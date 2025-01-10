@@ -1,0 +1,22 @@
+Functional Requirements:
+
+Theatre Partners (B2B):
+        Onboard theatres with details (location, seating capacity, pricing, etc.).
+        Manage movie schedules and seat availability.
+
+End Customers (B2C):
+        Browse movies by city, language, and genre.
+        View theatre details and seating availability.
+        Book tickets and receive confirmation.
+
+
+Non-Functional Requirements:
+
+Scalability: Handle high traffic during popular movie releases.
+
+Performance: Ensure low latency for seat booking and browsing.
+
+Reliability: Avoid double booking through ACID-compliant transactions.
+
+Security: Secure customer and partner data; ensure safe payment transactions.
+
